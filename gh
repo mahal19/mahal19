@@ -1,0 +1,4 @@
+for (var =3 ; x<9; x+=3)
+{
+cosole.log (X);
+}
